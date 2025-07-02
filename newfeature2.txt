@@ -1,0 +1,2 @@
+Hello New Day
+this is newfeature2.txt file
